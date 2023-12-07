@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/quizi_web/static/css/main.8a705ae0.css",
+    "main.js": "/quizi_web/static/js/main.227bc9c7.js",
+    "static/js/787.efa051fd.chunk.js": "/quizi_web/static/js/787.efa051fd.chunk.js",
+    "static/media/Montserrat-Medium.ttf": "/quizi_web/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
+    "index.html": "/quizi_web/index.html",
+    "main.8a705ae0.css.map": "/quizi_web/static/css/main.8a705ae0.css.map",
+    "main.227bc9c7.js.map": "/quizi_web/static/js/main.227bc9c7.js.map",
+    "787.efa051fd.chunk.js.map": "/quizi_web/static/js/787.efa051fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a705ae0.css",
+    "static/js/main.227bc9c7.js"
+  ]
+}
